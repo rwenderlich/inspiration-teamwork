@@ -169,7 +169,7 @@
 ---
 
 # [Fit] 1
-# Camraderie and fun
+# Camaraderie and fun
 
 ^ First, being on a great team gives us this amazing sense of camaraderie and fun. When we’re part of a great team, we get to hang out with our teammates, talk about geeky news, share things we’re working on...
 
