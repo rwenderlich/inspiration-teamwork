@@ -235,7 +235,120 @@
 
 # :angry: :worried: :sob:
 
-^ If you’re not so happy with your team, I encourage you to think “How can you help make your team into what it can be, and what it should be? How can you build that sense of belongingness? How can you improve your team’s reputation? How can you begin to dream bigger?” You can start small - it can be as simple as setting up a team chat room or code reviews, but it will make a big difference. 
+^ If you’re not so happy with your team, I encourage you to think “How can you help make your team into what it can be, and what it should be? How can you build that sense of belongingness? How can you improve your team’s reputation? How can you begin to dream bigger?” 
+
+---
+
+# [Fit]:angry: :worried: :sob:
+
+^ "But wait a minute!" some of you are thinking. "My team is a mess, and there's nothing I can do. My boss is terrible, our clients are clueless, and the coder in the cubicle next to me only knows Fortran!" Even in this case I'd argue that there's still something you can do. 
+
+---
+
+# The power of 
+# [Fit] iteration
+
+^ This is because I've seen this work in my real life, through the power of iteration.
+
+---
+
+![Fit, Filtered](Images/OldSite.png)
+
+^ Let me share with you a secret. Not everything we've done on raywenderlich.com started out good. In fact I'd go so far to say that the first tutorials I ever wrote were terrible! They violated every rule on our tutorial team guide, and I apologize for all of you who had to suffer through them. 
+
+---
+
+![300%, Filtered](Images/1-up.png)
+
+^ But it wasn't so much about how good or bad it was - what's more important is if you follow the iterative process. You want to give it your best shot, see what you can improve, and then do it again - taking into consideration what you learned last time. Each iteration, you level up. 
+
+----
+
+![Fit, Filtered](Images/RW-DevCon_500.png)
+
+^ This is in fact what we're doing with this entire conference. We're giving this our best initial shot, we're gonna take a look at your feedback, and we're gonna make it even better next time.
+
+---
+
+# The power of 
+# [Fit] iteration
+
+^ You can do this same thing with your teams. You can start something really small, make a tiny improvement, and just keep iterating. Do this enough, and you'll have a great team.
+
+---
+
+# [Fit]:angry: :worried: :sob:
+
+^ "But wait minute!" you might say. "What can I do as a lowly developer to improve my team?"
+
+^ Well I'm glad you asked. Here's 10 things.
+
+---
+
+![Fit](Images/StyleGuide.png)
+
+^ You can make a team style guide.
+
+---
+
+![Fit](Images/CodeReviews.png)
+
+^ You can start a system of code reviews.
+
+---
+
+![Fit](Images/Silly.png)
+
+^ You can do something silly.
+
+---
+
+![Fit](Images/TechTalk.jpg)
+
+^ You can share your knowledge.
+
+---
+
+![Fit](Images/slack-logo.png)
+
+^ You can start a team chat channel.
+
+---
+
+![Fit](Images/MacPro.jpg)
+
+^ You can code with craftmanship.
+
+---
+
+![Fit](Images/UnitTests.png)
+
+^ You can encourage your team to unit test.
+
+---
+
+![Fit](Images/ForSale.jpg)
+
+^ You can play board games at lunch.
+
+---
+
+# [Fit] :heart:
+
+^ You can compliment your team members when they do something good.
+
+---
+
+# :ear: :smile:
+
+^ You can listen to your team - they often have the best ideas.
+
+---
+
+# The power of 
+# [Fit] iteration
+
+^ Just pick one of these, or any of your own ideas. Make one small improvment, and keep iterating. 
 
 ---
 
