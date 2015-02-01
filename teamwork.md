@@ -1,14 +1,26 @@
 # [Fit] Teamwork
 
+——
+
+![](Images/Moon2.jpg)
+
+^ People who were born before 1960 or so commonly ask each other “Where Were You When Apollo 11 Landed On the Moon?” But for us as iOS developers, we have a different question:
+
 ---
 
-# Summer 2009
+![](Images/iPhone.jpg)
 
-^ I want you all to think back to that magical time that was the summer of 2009.
+^ “Where were you when you got your first iPhone?” [My example] This was a magical experience, and once we realized we could make apps for this that we carry around in our pockets, show off to our friends, and have anyone across the world download on the App Store, we were hooked - and we knew this is what we had to do. 
 
 ---
 
-![Fit, Filtered](Images/1-iPhone3.png)
+# 2009
+
+^ For many of us, this took place somewhere around 2009.
+
+---
+
+![Fit](Images/1-iPhone3.png)
 
 ^ At that time, we had just gotten the iPhone OS 3 SDK. At that time, apps looked like this...
 
@@ -20,13 +32,13 @@
 
 ---
 
-![Fit, Filtered](Images/Keynote-4.png)
+![Fit](Images/Keynote-4.png)
 
 ^ ...
 
 ---
 
-![Filtered](Images/4-GoldRush.jpg)
+![](Images/4-GoldRush.jpg)
 
 ^ At that time, the App Store was 1 year old and we were in the middle of the gold rush. Believe it or not, the guy who made...
 
@@ -34,7 +46,7 @@
 
 ![Fit](Images/Keynote-3.png)
 
-^ ...this app made millions. It seemed like everybody had the next great app idea. 
+^ ...this fart app made millions, and we all wanted to be just like him. It seemed like everybody had the next great app idea. 
 
 ---
 
@@ -59,7 +71,7 @@
 
 ---
 
-![Filtered](Images/TonsOfApps.jpg)
+![](Images/TonsOfApps.jpg)
 
 ^ It addicting, and we so we just kept making apps. Our community of iOS developers continued to grow, and many of us became full-time indies making a living doing this.
 
@@ -78,7 +90,7 @@
 
 ---
 
-![Filtered, Fit](Images/UnreadSales.png)
+![Fit](Images/UnreadSales.png)
 
 ^ It all started when Jared Sinclair, a well known indie, released the sales numbers for his most recent app, which were well below expectations. Soon others started chiming in with their sales numbers, which were equally disappointing, and you started hearing about all these developers who had been silently leaving the scene over the years to get “real jobs”. This sense of doom and gloom came over the community. 
 
@@ -99,13 +111,13 @@
 
 ---
 
-![Filtered](Images/Spock.jpeg)
+![](Images/Spock.jpeg)
 
 ^ Logically, we know that in order to compete in this market, we’d be best served by making a team of our own. 
 
 ---
 
-![Filtered](Images/Kirk.jpg)
+![](Images/Kirk.jpg)
 
 ^ However emotionally, that’s easier said than done because we have these feelings and fears holding us back.
 
@@ -129,7 +141,7 @@
 # [Fit] great
 # [Fit] opportunity.
 
-^ We can miss out on a great opportunity. To show you what I mean, let me tell you a story about an indie iOS developer who almost missed out on the greatest opportunity of his life.
+^ We can miss out on a great opportunity. Consider for a moment the story of an indie iOS developer who almost missed out on the greatest opportunity of his life.
 
 ---
 
@@ -143,7 +155,7 @@
 
 ![Fit](Images/Keynote-5.png)
 
-^ Here's what the app looked like. I mean - do you see this app, what was this guy even thinking?! But it was fun, so he kept going, and after about a year, he was lucky enough to be be earning what he needed to pay the bills.
+^ Here's what the app looked like - I think I just heard Jony Ive cry. This just  a very basic app with terrible graphics, and it sadly didn’t earn the guy a million dollars. But he had fun, and he learned a lot making it, so he kept going, and after about a year, he was lucky enough to be be earning what he needed to pay the bills.
 
 ---
 
@@ -155,16 +167,23 @@
 
 ---
 
-# Either get some help
-# or shut down this blog.
+> Either get some help
+> or shut down this blog.
+-- -A smart wife 
 
 ^ Luckily this guy had a wife who was much smarter than him, who sat him down and said, “You need to either get some help, or shut down this blog.” So he found some teammates, and as he started working with them, the site grew, and he started thinking of himself no longer as an indie, but as a part of a great team.
 
 ---
 
+![](Images/AppSales2009.png)
+
+^ As you might have guessed, this former indie iOS developer is me... (oh man I remember those $6 fondly, that was all the money I earned in 2009)...
+
+—
+
 ![](Images/2014_rwteam_map-700x489.jpg)
 
-^ As you might have guessed, this great team is the raywenderlich.com team, and this former indie iOS developer is me. Being part of this great team has changed my life in ways I never would have imagined, and given me huge benefits over what I could have ever gotten as an individual. Let me share with just three of the benefits you can get by being a part of a great team.
+^ ...and this great team is the raywenderlich.com team, and this former indie iOS developer is me. Being part of this great team has changed my life in ways I never would have imagined, and given me huge benefits over what I could have ever gotten as an individual. Let me share with just three of the benefits you can get by being a part of a great team.
 
 ---
 
@@ -175,7 +194,7 @@
 
 ---
 
-![Filtered](Images/backsreet.png)
+![](Images/backsreet.png)
 
 ^ ...Photoshop each other’s faces on pictures, and so on. It really makes us feel connected, appreciated, and part of a tight knit group. We feel like we’re working together, supporting each other, and that we have some true friends.
 
@@ -209,7 +228,7 @@
 
 # :smile:
 
-^ I know a small number of you are currently independent developers or contractors. First of all, congrats on being able to pull this off on your own - as we’ve discussed today, it’s not easy, and not everyone can do it. But just because you can do it alone, doesn’t mean you should. I encourage you to consider teaming up with somebody else on a project who shares your same values - who knows what you’ll be able to do together - it might be beyond your wildest imagination.
+^ First, I bet there’s a few indie developers, or independent contractors in the room. Can any indies here please raise your hands? First of all, congrats on being able to pull this off on your own - as we’ve discussed today, it’s not easy, and not everyone can do it. But just because you can do it alone, doesn’t mean you should. I encourage you to consider teaming up with somebody else on a project who shares your same values - who knows what you’ll be able to do together - it might be beyond your wildest imagination.
 
 ---
 
@@ -221,13 +240,13 @@
 
 ---
 
-![Fit, Filtered](Images/Keynote-6a.png)
+![Fit](Images/Keynote-6a.png)
 
 ^ I want us to not just put indies on a pedestal as something to admire and strive for...
 
 ---
 
-![Fit, Filtered](Images/Keynote-6.png)
+![Fit](Images/Keynote-6.png)
 
 ^ ...but also put being a part of a great team up there as well, because it’s equally as challenging and important, and you get just as many benefits, if not more. Take a moment and appreciate the great things you’re accomplishing as a team, and also think - how can you make things even better than what you have right now.
 
@@ -252,26 +271,15 @@
 
 ---
 
-![Fit, Filtered](Images/OldSite.png)
+![Fit](Images/OldSite.png)
 
-^ Let me share with you a secret. Not everything we've done on raywenderlich.com started out good. In fact I'd go so far to say that the first tutorials I ever wrote were terrible! They violated every rule on our tutorial team guide, and I apologize for all of you who had to suffer through them. 
+^ Let me share with you a secret. Not everything we've done on raywenderlich.com started out good. In fact I'd go so far to say that the first tutorials I ever wrote were terrible! They violated every rule on our tutorial team guide, and I shudder to think what would have happened it these tutorials landed on our editor’s desks - they would have been ripped to shreds, and my butt would have been booted off the tutorial team. 
 
 ---
 
-![300%, Filtered](Images/1-up.png)
+![300%](Images/1-up.png)
 
 ^ But it wasn't so much about how good or bad it was - what's more important is if you follow the iterative process. You want to give it your best shot, see what you can improve, and then do it again - taking into consideration what you learned last time. Each iteration, you level up. 
-
-----
-
-![Fit, Filtered](Images/RW-DevCon_500.png)
-
-^ This is in fact what we're doing with this entire conference. We're giving this our best initial shot, we're gonna take a look at your feedback, and we're gonna make it even better next time.
-
----
-
-# The power of 
-# [Fit] iteration
 
 ^ You can do this same thing with your teams. You can start something really small, make a tiny improvement, and just keep iterating. Do this enough, and you'll have a great team.
 
@@ -281,7 +289,7 @@
 
 ^ "But wait minute!" you might say. "What can I do as a lowly developer to improve my team?"
 
-^ Well I'm glad you asked. Here's 10 things.
+^ Well I'm glad you asked. Here's 10 things, off the top of my head. And for those of you who are on good teams already, listen up - because you can always make your team better.
 
 ---
 
@@ -299,7 +307,7 @@
 
 ![Fit](Images/Silly.png)
 
-^ You can do something silly.
+^ You can do something silly, like having nerf gun wars, or making geeky song lyrics together.
 
 ---
 
@@ -335,7 +343,7 @@
 
 # [Fit] :heart:
 
-^ You can compliment your team members when they do something good.
+^ You can make a point to compliment your team members when they do something good.
 
 ---
 
@@ -352,8 +360,8 @@
 
 ---
 
-# [Fit] You have the power
-# [Fit] to transform your team into
+# [Fit] We have the power
+# [Fit] to transform our teams into
 # [Fit] something incredible
 
 ^ You have the power to transform your team into something incredible - take advantage of it.
@@ -369,48 +377,25 @@
 # [Fit] The iOS
 # [Fit] Community
 
-^ ...the iOS community. As iOS developers, we are incredibly lucky - because we have the best community of developers that has ever existed. We have a reputation for being open, inclusive, sharing of our hard-won knowledge, and incredibly supportive to each other.
+^ ...the iOS community. As iOS developers, we are incredibly lucky - because we have the best community of developers that has ever existed. Can I get a round of applause for the iOS community?
+
+^ We have a reputation for being open, inclusive, sharing of our hard-won knowledge, and incredibly supportive to each other.
 
 ---
 
-![Fit, Filtered](Images/Community.png)
+![Fit](Images/Community.png)
 
 ^ Some of you contribute to open source projects, some of you join your local meetup groups, some answer questions on StackOverflow or forums, some of you run podcasts, and some of you write tutorials or articles on our site or others. Some of you are beginners and aren’t doing this yet, but don’t worry - you will. Right now focus on learning - you will naturally find yourself contributing back later as you expand your skills.
 
 ---
 
-# [Fit] The RWDevCon
-# [Fit] Community
-
-^ In fact, right now all of you are contributing by being part of this conference. We’ve literally designed this conference around having you be an integral part of it. 
-
----
-
-# Be part of the tutorials
-
-^ We don’t want to just spit out technical info to you - we want you to be part of the tutorials, do the demos and exercises with us, so you can really learn. 
-
----
-
-# Get to know each other
-
-^ We want for us to all get to know each other at the social events we have planned, and to discuss some of the new ideas that will come out from the inspiration talks.
-
----
-
-# [Fit] Soak in & share out
-
-^We want for us to try only to soak in as much we can in these next two days, but also share out as much as we can as well.
-
----
-
-# Summer 2009
+# 2009
 
 ^ Back in 2009 when I was an indie iPhone developer, I never would have imagined...
 
 ---
 
-![Fit, Filtered](Images/RW-DevCon_500.png)
+![Fit](Images/RW-DevCon_500.png)
 
 ^ that I’d be here with this amazing team of all you today, making this conference happen...
 
@@ -423,7 +408,7 @@
 
 ---
 
-![Fit, Filtered](Images/bear_trap_T.png)
+![Fit](Images/bear_trap_T.png)
 
 ^ Don’t fall into the trap I almost did, of being left alone with your feelings and fears. 
 
@@ -435,7 +420,7 @@
 
 ---
 
-# [Fit] You'll feel the world begin
+# [Fit] We’ll feel the world begin
 # [Fit] to open up.
 
 ^ When you start doing this and making your wildest dreams a reality, just like in the preface of this programming book, you’ll feel the world begin to open up.
